@@ -1,2 +1,3 @@
-# selenium-maven
+# Selenium Framework Maven
+
 A selenium framework using maven.
